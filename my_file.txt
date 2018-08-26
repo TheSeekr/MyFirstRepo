@@ -1,1 +1,2 @@
-This is my_file without any modifications
+This is my_file without any modifications but now i've made modifcations to it
+this is new line
